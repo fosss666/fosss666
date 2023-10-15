@@ -1,21 +1,13 @@
 ### Hi, I'm FOSSS  
-<div align="center">
-<img src="https://ts1.cn.mm.bing.net/th/id/R-C.a68f8b0abcb8acc16b11b10f64edd353?rik=Mf7M%2fe%2b8rSkoXQ&riu=http%3a%2f%2fbpic.588ku.com%2felement_pic%2f00%2f16%2f08%2f1457afed3c5ab48.jpg&ehk=Kd87Ic4%2bkq72Ral9KZoGLCUPZsn4ZcySO4UaRPbPMH0%3d&risl=&pid=ImgRaw&r=0" align="center" height="" width="" />
-</div>  
-  
-### my info  
+ 
 🔭 [my blog](https://fosss666.github.io/)<br/>
 ⚡ [gitee](https://gitee.com/feng-minghe)<br/>
-📧email: ggrxhskd@163.com  
-
-<br/>  
-
+📧email: ggrxhskd@163.com   
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fosss666&layout=compact)](https://github.com/fosss666/github-readme-stats)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
