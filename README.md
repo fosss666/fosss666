@@ -1,8 +1,8 @@
-### Hi, I'm FOSSS  
- 
-🔭 [my blog](https://fosss666.github.io/)<br/>
-⚡ [gitee](https://gitee.com/feng-minghe)<br/>
-📧email: ggrxhskd@163.com   
+### Hi, I'm FOSSS  🏓
+- 🎈 平平无奇
+- 🔭 [my blog](https://fosss666.github.io/)<br/>
+- ⚡ [gitee](https://gitee.com/feng-minghe)<br/>
+- 📧 email: ggrxhskd@163.com   
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fosss666&layout=compact)](https://github.com/fosss666/github-readme-stats)
 
