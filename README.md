@@ -1,11 +1,10 @@
-### Hi, I'm FOSSS  🏓
+### Hi, MY ![Visitor Count](https://profile-counter.glitch.me/fosss666/count.svg) VISTOR <br/>
+
+## FOSSS🏓
 - 🎈 平平无奇
 - 🔭 [my blog](https://fosss666.github.io/)<br/>
 - ⚡ [gitee](https://gitee.com/feng-minghe)<br/>
 - 📧 email: ggrxhskd@163.com   
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fosss666&layout=compact)](https://github.com/fosss666/github-readme-stats)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -46,6 +45,10 @@
 </div>
 
 </td></tr></table>  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fosss666&layout=compact)](https://github.com/fosss666/github-readme-stats)<br/>
+
 
 <br/>  
 
