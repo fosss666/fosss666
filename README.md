@@ -1,9 +1,11 @@
-### Hi there 👋
 
-<!--
-**fosss666/fosss666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Count](https://profile-counter.glitch.me/fosss666/count.svg)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas)](https://github.com/fosss666/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/fosss666/github-readme-stats)
+
+![fosss666's GitHub stats](https://github-readme-stats.vercel.app/api?username=fosss666&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
