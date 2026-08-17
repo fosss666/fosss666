@@ -1,4 +1,4 @@
-### Hi, MY ![](https://komarev.com/ghpvc/?username=your-github-username&color=green) VISTOR <br/>
+### Hi, MY ![VISTOR COUNT](https://komarev.com/ghpvc/?username=your-github-username&color=green) VISTOR <br/>
 
 ## FOSSS🏓
 - 🎈 平平无奇
