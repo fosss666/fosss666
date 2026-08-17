@@ -1,4 +1,4 @@
-### Hi, MY ![Visitor Count](https://profile-counter.glitch.me/fosss666/count.svg) VISTOR <br/>
+### Hi, MY ![](https://komarev.com/ghpvc/?username=your-github-username&color=green) VISTOR <br/>
 
 ## FOSSS🏓
 - 🎈 平平无奇
